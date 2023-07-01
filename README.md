@@ -6,7 +6,7 @@
 <div align="center">
    
 [Linkedin](https://www.linkedin.com/in/orlandosandi/) · 
-[Portfolio](https://portfolio-oasumainline.vercel.app/) · 
+[Portfolio](https://orlandosandi.com) · 
 [Blog](https://www.thecodecitadel.com)
 </div>
 
