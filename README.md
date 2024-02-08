@@ -20,8 +20,6 @@ I'm a passionate and curious programmer, always on the lookout for new knowledge
 
 🛠 Working on personal projects.
 
-💼 Looking for a job.
-
 ## My tools:
 <div>
   
